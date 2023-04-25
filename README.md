@@ -24,9 +24,10 @@
 
 - ⚡ Fun Fact: **I'm a deep thinker with a perfectionist mindset.**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+### Read my latest blog posts 
+- Read and share your views on [Understanding the Essentials of a Development Lifecycle](https://medium.com/@mrigankpandey/understanding-the-essentials-of-a-development-lifecycle-b0b22a7a47cb)
+
+- Read my first blog post on Medium about [Decoding the world of a Business Analyst](https://medium.com/@mrigankpandey/decoding-the-world-of-a-business-analyst-4612e9880c3e)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
